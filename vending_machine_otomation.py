@@ -61,9 +61,8 @@ elif money1 < 1:
 
       else:
         print("Sorry, here's your change: ", money1 + money2, "Euro")
-
   else:
     print("Sorry, here's your change: ", money1, "Euro")
-
 else:
   print("Sorry, here's your change: ", money1, "Euro") 
+  
